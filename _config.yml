@@ -24,8 +24,8 @@ author:
   name             : "王子渊 Ziyuan Wang"
   avatar           : "images/wzy.jpg"
   bio              : "华中科技大学"
-  location         : "湖北 武汉"
-  employer         : "Huazhong University of Science and Technology"
+  location         : "Hubei Wuhan"
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : "Wangzyprince@hust.edu.cn"
@@ -55,8 +55,9 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://space.bilibili.com/391663865?spm_id_from=333.1007.0.0"
+  youtube          : 
   wikipedia        :
+  Bilibili         : "https://space.bilibili.com/391663865?spm_id_from=333.1007.0.0"
 
 
 # Reading Files
