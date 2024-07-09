@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "王子渊 Ziyuan Wang"
-  avatar           : "images/wzy.png"
+  avatar           : "images/wzy.jpg"
   bio              : "华中科技大学"
   location         : "湖北 武汉"
   employer         : "Huazhong University of Science and Technology"
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-9658-209X"
+  orcid            : "https://orcid.org/0009-0003-0726-3110"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -55,7 +55,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :"https://space.bilibili.com/391663865?spm_id_from=333.1007.0.0"
+  youtube          : "https://space.bilibili.com/391663865?spm_id_from=333.1007.0.0"
   wikipedia        :
 
 
