@@ -39,7 +39,7 @@ My research interests mainly focus on:
 - 2023.9 - 2024.2 <a href="https://www.dataarobotics.com/zh"><img class="svg" src="/images/cloudminds.svg" width="23pt"></a>**Dataa Robotics Co.,LTD** Beijing, China
 
 
-- 2021.10-2022.2 <a href="https://ia.cas.cn/"><img class="svg" src="/images/CASIA.svg" width="23pt"></a>**Institute of Automation，Chinese Academy of Sciences(CASIA)** Beijing, China
+- 2021.10-2022.2 <a href="https://ia.cas.cn/"><img class="jpg" src="/images/CASIA.jpg" width="23pt"></a>**Institute of Automation，Chinese Academy of Sciences(CASIA)** Beijing, China
 
 <span class='anchor' id='-lwzl'></span>
 
