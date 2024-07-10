@@ -65,7 +65,7 @@ My research interests mainly focus on:
 
 # 📐 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/chemistry.gif' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/chemistry.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [[Full Video]](https://www.bilibili.com/video/BV12x4y1t7Sc/#reply230506699392)
