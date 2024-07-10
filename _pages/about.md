@@ -17,24 +17,26 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Ziyuan Wang, currently a 2nd-year Master student in Huazhong University of Science and Technology(expected graduation in June 2025).
+Hi! I am Ziyuan Wang, currently a 2nd-year Master student(2022.9-2025.6) of <a href="https://www.hust.edu.cn/">School of the Electronic Information and Communications</a>, at <a href="https://www.hust.edu.cn/">Huazhong University of Science and Technology</a>, advised by <a href="https://scholar.google.com/citations?hl=zh-CN&user=x9vhdoIAAAAJ">Xiaojun Hei</a>. I have got my B.E degree from China Agricultural University in 2022.
  <!-- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 -->
 
 My research interests mainly focus on:
-- Robotics
-- Reinforcement Learning
 - Robotics Grasping and Manipulation
+- Reinforcement Learning
+
   
 
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 Education & 💻 Internships
+# 🎓 Education 
 - 2022.09 - 2025.6(expected), <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a>  **Huazhong University of Science and Technology** WuHan, China 
   - M.S.(currently studying) in Electronic Information and Engingeering (Postgraduate Recommendation)
 
 - *2018.09 - 2022.06*, <a href="https://www.cau.edu.cn/"><img class="svg" src="/images/CAU_logo.svg" width="20pt"></a> **China Agricultural University** Beijing, China
   - B.E. in College of Information and Electrical Engineering
+
+# 💻 Internships
 
 - 2023.9 - 2024.2 <a href="https://www.dataarobotics.com/zh"><img class="svg" src="/images/cloudminds.svg" width="23pt"></a>**Dataa Robotics Co.,LTD** Beijing, China
 
@@ -62,8 +64,9 @@ My research interests mainly focus on:
 
 <span class='anchor' id='-ryjx'></span>
 
-# 🏅 Awards
+# 🏅 Awards and Honors
 <!-- - *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
 - *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
 - *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`   -->
-
+- 2024.7 The China Graduate Electronics Design Contest() The second prize
+- 2023,2022 First-Class Academic Scholarship ,`Huazhong University of Science and Technology
