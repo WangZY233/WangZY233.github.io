@@ -47,7 +47,7 @@ My research interests mainly focus on:
 
 # 📝 Publications
 
-- (Under Review) `Ziyuan Wang`, Yefan Lin, Jiahang Zhang, Changjiang Han and Xiaojun Hei, "Self-Perceptive Framework: A Reinforcement Learning Manipulation Framework with Visual Compensation for Zero Position Error", IEEE Robotics & Automation. (JCR:Q2,IF:5.2)  
+- (Under Review) `Ziyuan Wang`, Yefan Lin, Jiahang Zhang, Changjiang Han and Xiaojun Hei, "Self-Perceptive Framework: A Reinforcement Learning Manipulation Framework with Visual Compensation for Zero Position Error", IEEE Robotics & Automation Letter. (JCR:Q2,IF:5.2)  
  [[Video]](https://www.bilibili.com/video/BV1AT421Y7zC/?spm_id_from=333.788&vd_source=489551d6eb0d2b01434cfa08d681ad35)
  
 
