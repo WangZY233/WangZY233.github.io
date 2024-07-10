@@ -57,7 +57,7 @@ My research interests mainly focus on:
 - `Wang, Ziyuan`, and Fan Guo. "Research on the theory and application of deep interactive learning." Journal of Physics: Conference Series. Vol. 1982. No. 1. IOP Publishing, 2021.  
 [[HTML]](https://iopscience.iop.org/article/10.1088/1742-6596/1982/1/012085)
 
-- 程强,`王子渊`,张珉澍,朱玉帆. 土壤多参数测量系统及其测量方法.  
+- 程强,`王子渊`,张珉澍,朱玉帆. 土壤多参数测量系统及其测量方法.   2021  
 [[HTML]](https://www.zhangqiaokeyan.com/patent-detail/06120113695440.html)
 
 
