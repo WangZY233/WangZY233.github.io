@@ -64,8 +64,9 @@ My research interests mainly focus on:
 <span class='anchor' id='-ryjx'></span>
 
 # 📐 Projects
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/chemistry.gif' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1"> 
 
-<div class='paper-box'><div class='paper-box-image'><div></div><img src='/images/chemistry.gif' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
+[[Full Video]](https://www.bilibili.com/video/BV12x4y1t7Sc/#reply230506699392)
 - Fully automated chemical experimental platform
 - Complete 16 chemical preparation processes
 - Programming Implementation of Six Basic Chemical Experiment Operations
