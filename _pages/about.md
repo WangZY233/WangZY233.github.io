@@ -57,16 +57,25 @@ My research interests mainly focus on:
 - `Wang, Ziyuan`, and Fan Guo. "Research on the theory and application of deep interactive learning." Journal of Physics: Conference Series. Vol. 1982. No. 1. IOP Publishing, 2021.  
 [[HTML]](https://iopscience.iop.org/article/10.1088/1742-6596/1982/1/012085)
 
-### Patent
----
-- 程强,`王子渊`,张珉澍,朱玉帆. 土壤多参数测量系统及其测量方法. [[HTML]](https://www.zhangqiaokeyan.com/patent-detail/06120113695440.html)
+- 程强,`王子渊`,张珉澍,朱玉帆. 土壤多参数测量系统及其测量方法.  
+[[HTML]](https://www.zhangqiaokeyan.com/patent-detail/06120113695440.html)
 
 
 <span class='anchor' id='-ryjx'></span>
+
+# 📐 Projects
+
+<div class='paper-box'><div class='paper-box-image'><div></div><img src='images/chemistry.mp4' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- Fully automated chemical experimental platform
+- Complete 16 chemical preparation processes
+- Programming Implementation of Six Basic Chemical Experiment Operations
+- Over 90% Success Rate
 
 # 🏅 Awards and Honors
 <!-- - *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
 - *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
 - *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`   -->
-- 2024.7 The China Graduate Electronics Design Contest() The second prize
+- 2024.7 The China Graduate Electronics Design Contest(Central China Division) The second prize
 - 2023,2022 First-Class Academic Scholarship ,`Huazhong University of Science and Technology

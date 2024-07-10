@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "王子渊"
 description              : "Huazhong University of Science and Technology
-Context me:
+
 Phone & Wechat: 13536655301"
 repository               : "WangZY233/WangZY233.github.io"
 google_scholar_stats_use_cdn : false
@@ -47,7 +47,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0003-0726-3110"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
