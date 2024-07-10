@@ -69,10 +69,22 @@ My research interests mainly focus on:
 <div class='paper-box-text' markdown="1"> 
 
 [[Full Video]](https://www.bilibili.com/video/BV12x4y1t7Sc/#reply230506699392)
-- Fully automated chemical experimental platform
+- Fully automated chemical experimental platform without human
 - Complete 16 chemical preparation processes
 - Programming Implementation of Six Basic Chemical Experiment Operations
-- Over 90% Success Rate
+- Over 95% Success Rate
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/ginger_coffee.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
+
+[[Full Video]](https://www.bilibili.com/video/BV1AT421Y7zC/?spm_id_from=333.788&vd_source=489551d6eb0d2b01434cfa08d681ad35)
+- End-to-end entire process of making coffee
+- Overcoming zero position error of 0-5 degrees
+- Over 90% Success Rate in entire process
+
 
 </div>
 </div>
