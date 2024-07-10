@@ -65,7 +65,7 @@ My research interests mainly focus on:
 
 # 📐 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div></div><img src='images/chemistry.mp4' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div></div><img src='/images/chemistry.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Fully automated chemical experimental platform
