@@ -84,6 +84,7 @@ My research interests mainly focus on:
 - End-to-end entire process of making coffee
 - Overcoming zero position error of 0-5 degrees
 - Over 90% Success Rate in entire process
+- Actual deployment to the Dataa Robotics Showroom
 
 
 </div>
