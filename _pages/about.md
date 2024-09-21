@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Ziyuan Wang, currently a 2nd-year Master student(2022.9-2025.6) of <a href="https://www.hust.edu.cn/">School of the Electronic Information and Communications</a>, at <a href="https://www.hust.edu.cn/">Huazhong University of Science and Technology</a>, advised by <a href="https://scholar.google.com/citations?hl=zh-CN&user=x9vhdoIAAAAJ">Xiaojun Hei</a>. I have got my B.E degree from China Agricultural University in 2022.
+Hi! I am Ziyuan Wang, currently a 2nd-year Master student(2022.9-2025.6) of <a href="https://www.hust.edu.cn/">School of the Electronic Information and Communications</a>, at <a href="https://www.hust.edu.cn/">Huazhong University of Science and Technology</a>, advised by <a href="https://scholar.google.com/citations?hl=zh-CN&user=x9vhdoIAAAAJ">Prof. Xiaojun Hei</a>. I have got my B.E degree from China Agricultural University in 2022.
  <!-- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 -->
 
 My research interests mainly focus on:
-- Robotics Grasping and Manipulation
-- Reinforcement Learning
+- Robotics Grasping and Manipulation 
+- Reinforcement Learning in Robotics
 
   
 
@@ -47,18 +47,28 @@ My research interests mainly focus on:
 
 # 📝 Publications
 
-- (Under Review) `Ziyuan Wang`, Yefan Lin, Jiahang Zhang, Changjiang Han and Xiaojun Hei, "Self-Perceptive Framework: A Reinforcement Learning Manipulation Framework with Visual Compensation for Zero Position Error", IEEE Robotics & Automation Letter. (JCR:Q2,IF:5.2)  
- [[Video]](https://www.bilibili.com/video/BV1AT421Y7zC/?spm_id_from=333.788&vd_source=489551d6eb0d2b01434cfa08d681ad35)
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/Architecture of Self-Perceptive Frameworkv2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
+
+- (Under Review) `Ziyuan Wang`, Yefan Lin, Jiahang Zhang, Changjiang Han and Xiaojun Hei, "Self-Perceptive Framework: A Manipulation Framework with Visual Compensation for Zero Position Error", IEEE International Conference on Robotics & Automation (ICRA2025)  
+ <!-- [[Paper]](https://www.bilibili.com/video/BV1AT421Y7zC/?spm_id_from=333.788&vd_source=489551d6eb0d2b01434cfa08d681ad35) -->
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/robio.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
  
+- (Under Review) `Ziyuan Wang`, Yefan Lin, Le Yuzhao, Jiahang Zhang and Xiaojun Hei, "Deep Reinforcement Learning for Sim-to-Real Transfer in a Humanoid Robot Barista", The 2024 IEEE International Conference on Robotics and Biomimetics(ROBIO)
 
 -	`Z. Wang`, Y. Chen and X. Hei, "Design a Cloud-enabled Humanoid Robot Application System to Assess the ABA Learning for Autistic Children," 2022 International Conference on Intelligent Education and Intelligent Research (IEIR), Wuhan, China, 2022, pp. 114-121, doi: 10.1109/IEIR56323.2022.10050050.  
-[[HTML]](https://ieeexplore.ieee.org/document/10050050) [[Video]](https://www.bilibili.com/video/BV1pW421d7o5/?share_source=copy_web&vd_source=c17cbd34d977b7117b060596fe15e749)
+[[Paper]](https://ieeexplore.ieee.org/document/10050050) [[Video]](https://www.bilibili.com/video/BV1pW421d7o5/?share_source=copy_web&vd_source=c17cbd34d977b7117b060596fe15e749)
  
 - `Wang, Ziyuan`, and Fan Guo. "Research on the theory and application of deep interactive learning." Journal of Physics: Conference Series. Vol. 1982. No. 1. IOP Publishing, 2021.  
-[[HTML]](https://iopscience.iop.org/article/10.1088/1742-6596/1982/1/012085)
+[[paper]](https://iopscience.iop.org/article/10.1088/1742-6596/1982/1/012085)
 
 - 程强,`王子渊`,张珉澍,朱玉帆. 土壤多参数测量系统及其测量方法.   2021  
 [[HTML]](https://www.zhangqiaokeyan.com/patent-detail/06120113695440.html)
+
+- (已受理)张成伟,张嘉航,`王子渊`,韩长江,汪金剑,戴澍,朱振鹏,吴越,钟国辉,高雅玙. 一种双协作机械臂自动化化学材料制备平台.  2024
+
 
 
 <span class='anchor' id='-ryjx'></span>
@@ -91,8 +101,5 @@ My research interests mainly focus on:
 </div>
 
 # 🏅 Awards and Honors
-<!-- - *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
-- *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
-- *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`   -->
 - 2024.7 The China Graduate Electronics Design Contest(Central China Division) The second prize
 - 2023,2022 First-Class Academic Scholarship ,`Huazhong University of Science and Technology
