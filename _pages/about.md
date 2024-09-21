@@ -47,16 +47,22 @@ My research interests mainly focus on:
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/Architecture of Self-Perceptive Frameworkv2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/Architecture of Self-Perceptive Frameworkv2.jpg' alt="sym" width="350pt"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 - (Under Review) `Ziyuan Wang`, Yefan Lin, Jiahang Zhang, Changjiang Han and Xiaojun Hei, "Self-Perceptive Framework: A Manipulation Framework with Visual Compensation for Zero Position Error", IEEE International Conference on Robotics & Automation (ICRA2025)  
  <!-- [[Paper]](https://www.bilibili.com/video/BV1AT421Y7zC/?spm_id_from=333.788&vd_source=489551d6eb0d2b01434cfa08d681ad35) -->
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/robio.jpg' alt="sym" width="100%"></div></div>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/robio.jpg' alt="sym" width="350pt"></div></div>
 <div class='paper-box-text' markdown="1">
  
 - (Under Review) `Ziyuan Wang`, Yefan Lin, Le Yuzhao, Jiahang Zhang and Xiaojun Hei, "Deep Reinforcement Learning for Sim-to-Real Transfer in a Humanoid Robot Barista", The 2024 IEEE International Conference on Robotics and Biomimetics(ROBIO)
+
+</div>
+</div>
 
 -	`Z. Wang`, Y. Chen and X. Hei, "Design a Cloud-enabled Humanoid Robot Application System to Assess the ABA Learning for Autistic Children," 2022 International Conference on Intelligent Education and Intelligent Research (IEIR), Wuhan, China, 2022, pp. 114-121, doi: 10.1109/IEIR56323.2022.10050050.  
 [[Paper]](https://ieeexplore.ieee.org/document/10050050) [[Video]](https://www.bilibili.com/video/BV1pW421d7o5/?share_source=copy_web&vd_source=c17cbd34d977b7117b060596fe15e749)
