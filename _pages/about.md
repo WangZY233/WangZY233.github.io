@@ -25,6 +25,8 @@ My research interests mainly focus on:
 - Reinforcement Learning in Robotics
 - Embodied AI
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwangzy233.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
+
 <span class='anchor' id='-xl'></span>
 
 # 🎓 Education 
@@ -66,13 +68,12 @@ My research interests mainly focus on:
 [[Paper]](https://ieeexplore.ieee.org/document/10050050) [[Video]](https://www.bilibili.com/video/BV1pW421d7o5/?share_source=copy_web&vd_source=c17cbd34d977b7117b060596fe15e749)
  
 - `Wang, Ziyuan`, and Fan Guo. "Research on the theory and application of deep interactive learning." Journal of Physics: Conference Series. Vol. 1982. No. 1. IOP Publishing, 2021.  
-[[paper]](https://iopscience.iop.org/article/10.1088/1742-6596/1982/1/012085)
-
-- 程强,`王子渊`,张珉澍,朱玉帆. 土壤多参数测量系统及其测量方法.   2021  
-[[HTML]](https://www.zhangqiaokeyan.com/patent-detail/06120113695440.html)
+[[Paper]](https://iopscience.iop.org/article/10.1088/1742-6596/1982/1/012085)
 
 - (已受理)张成伟,张嘉航,`王子渊`,韩长江,汪金剑,戴澍,朱振鹏,吴越,钟国辉,高雅玙. 一种双协作机械臂自动化化学材料制备平台.  2024
 
+- 程强,`王子渊`,张珉澍,朱玉帆. 土壤多参数测量系统及其测量方法.   2021  
+[[HTML]](https://www.zhangqiaokeyan.com/patent-detail/06120113695440.html)
 
 
 <span class='anchor' id='-ryjx'></span>
