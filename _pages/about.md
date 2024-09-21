@@ -23,9 +23,7 @@ Hi! I am Ziyuan Wang, currently a 3rd-year Master student(2022.9-2025.6) of <a h
 My research interests mainly focus on:
 - Robotics Grasping and Manipulation 
 - Reinforcement Learning in Robotics
-
-  
-
+- Embodied AI
 
 <span class='anchor' id='-xl'></span>
 
@@ -105,6 +103,8 @@ My research interests mainly focus on:
 
 </div>
 </div>
+
+<span class='anchor' id='-ah'></span>
 
 # 🏅 Awards and Honors
 - 2024.7 The China Graduate Electronics Design Contest(Central China Division) The second prize
