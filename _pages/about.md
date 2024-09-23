@@ -70,7 +70,7 @@ My research interests mainly focus on:
 - `Wang, Ziyuan`, and Fan Guo. "Research on the theory and application of deep interactive learning." Journal of Physics: Conference Series. Vol. 1982. No. 1. IOP Publishing, 2021.  
 [[Paper]](https://iopscience.iop.org/article/10.1088/1742-6596/1982/1/012085)
 
-- (已受理)张成伟,张嘉航,`王子渊`,韩长江,汪金剑,戴澍,朱振鹏,吴越,钟国辉,高雅玙. 一种双协作机械臂自动化化学材料制备平台.  2024
+- 张成伟,张嘉航,`王子渊`,韩长江,汪金剑,戴澍,朱振鹏,吴越,钟国辉,高雅玙. 一种双协作机械臂自动化化学材料制备平台.  2024
 
 - 程强,`王子渊`,张珉澍,朱玉帆. 土壤多参数测量系统及其测量方法.   2021  
 [[HTML]](https://www.zhangqiaokeyan.com/patent-detail/06120113695440.html)
@@ -84,10 +84,10 @@ My research interests mainly focus on:
 <div class='paper-box-text' markdown="1"> 
 
 [[Full Video]](https://www.bilibili.com/video/BV12x4y1t7Sc/#reply230506699392)
-- Fully automated chemical experimental platform without human
-- Complete 16 chemical preparation processes
-- Programming Implementation of Six Basic Chemical Experiment Operations
-- Over 95% Success Rate
+- Fully automated dual-arm robotic chemical experimental platform without humans
+- Task scheduling by LLM
+- Modular design of more than 10 chemical experimental operations and completed real experimental processes (sensitive material preparation, crude salt purification, etc.)
+- On-site assessment by more than 10 chemists
 
 </div>
 </div>
@@ -96,10 +96,10 @@ My research interests mainly focus on:
 <div class='paper-box-text' markdown="1"> 
 
 [[Full Video]](https://www.bilibili.com/video/BV1AT421Y7zC/?spm_id_from=333.788&vd_source=489551d6eb0d2b01434cfa08d681ad35)
-- End-to-end entire process of making coffee
-- Overcoming zero position error of 0-5 degrees
-- Over 90% Success Rate in entire process
-- Actual deployment to the Dataa Robotics Showroom
+- End-to-end entire process of making coffee using humanoid robot Ginger and reinforcement learning, including clicking the button of the coffee machine, grasping the coffee cups and delivering the coffee to the designated place, etc
+- Overcoming zero position error of 0-5 degrees and tolerance of target position offset
+- Over 90% success rate in entire process in real Robot
+- Actual deployment to the Dataa Robotics Showroom and reported by <a href="https://zqb.cyol.com/html/2019-06/18/nbs.D110000zgqnb_11.htm">China Youth Daily</a>.
 
 
 </div>
@@ -108,5 +108,7 @@ My research interests mainly focus on:
 <span class='anchor' id='-ah'></span>
 
 # 🏅 Awards and Honors
-- 2024.7 The China Graduate Electronics Design Contest(Central China Division) The second prize
 - 2023,2022 First-Class Academic Scholarship ,`Huazhong University of Science and Technology
+- 2024.7 The China Graduate Electronics Design Contest(Central China Division) The second prize
+- 2020 Honorable Mention in Mathematical Contest In Modeling
+
