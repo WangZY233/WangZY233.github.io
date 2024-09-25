@@ -118,7 +118,7 @@ My research interests mainly focus on:
 **A Open-sourced Reinforcement Learning Platform for Robotic Arm**
 - Based on Pybullet, using 6-DOF collaborative robotic arm + 2-DOF parallel gripper combined with reinforcement learning to complete multi-tasks, including static object grasping, dynamic object grasping, stacking, and inserting.
 - All the tasks were deployed to the physical robotic arm and the success rate was over 95%.
-- 42+⭐ in Github, Link: https://github.com/WangZY233/FR5_Reinforcement-learning.git
+- 42+⭐ in Github, Link: [https://github.com/WangZY233/FR5_Reinforcement-learning.git](https://github.com/WangZY233/FR5_Reinforcement-learning.git)
 
 [[Full Video]](https://www.bilibili.com/video/BV1DD421V7eP/?share_source=copy_web&vd_source=c17cbd34d977b7117b060596fe15e749)[[Code]](https://github.com/WangZY233/FR5_Reinforcement-learning.git)
 
