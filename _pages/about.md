@@ -84,7 +84,7 @@ My research interests mainly focus on:
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/ginger_coffee.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
-**Design a Humanoid Robot Barista using Deep Reinforcement Learning**
+**A Humanoid Robot Barista**
 - End-to-end entire process of making coffee using humanoid robot Ginger and reinforcement learning, including clicking the button of the coffee machine, grasping the coffee cups and delivering the coffee to the designated place, etc
 - Overcoming zero position error of 0-5 degrees and tolerance of target position offset
 - Over 90% success rate in entire process in real Robot
@@ -99,7 +99,7 @@ My research interests mainly focus on:
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/chemistry.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
-**Research on Automatic Chemical Robot Synthesis for XX Material**
+**An Automated Dual-arm Robotic Chemical Experimental Platform**
 - Fully automated dual-arm robotic chemical experimental platform without humans
 - Task scheduling by LLM
 - Modular design of more than 10 chemical experimental operations and completed real experimental processes (sensitive material preparation, crude salt purification, etc.)
