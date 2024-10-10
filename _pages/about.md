@@ -59,7 +59,7 @@ My research interests mainly focus on:
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/robio.jpg' alt="sym" width="350pt"></div></div>
 <div class='paper-box-text' markdown="1">
  
-- (Under Review) `Ziyuan Wang`, Yefan Lin, Le Yuzhao, Jiahang Zhang and Xiaojun Hei, "Deep Reinforcement Learning for Sim-to-Real Transfer in a Humanoid Robot Barista", The 2024 IEEE International Conference on Robotics and Biomimetics(ROBIO)
+- (Accepted!) `Ziyuan Wang`, Yefan Lin, Le Yuzhao, Jiahang Zhang and Xiaojun Hei, "Deep Reinforcement Learning for Sim-to-Real Transfer in a Humanoid Robot Barista", The 2024 IEEE International Conference on Robotics and Biomimetics(ROBIO)
 
 </div>
 </div>
