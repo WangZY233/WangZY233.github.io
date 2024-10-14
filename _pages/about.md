@@ -99,8 +99,8 @@ My research interests mainly focus on:
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/chemistry.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
-**An Automated Dual-arm Robotic Chemical Experimental Platform**
-- Fully automated dual-arm robotic chemical experimental platform without humans
+**An Autonomous Dual-arm Robotic Chemical Experimental Platform**
+- Fully Autonomous dual-arm robotic chemical experimental platform without humans
 - Task scheduling by LLM
 - Modular design of more than 10 chemical experimental operations and completed real experimental processes (sensitive material preparation, crude salt purification, etc.)
 - On-site assessment by more than 10 chemists
