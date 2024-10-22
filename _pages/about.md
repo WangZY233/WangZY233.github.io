@@ -25,9 +25,7 @@ My research interests mainly focus on:
 - Reinforcement Learning in Robotics
 - Embodied AI
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwangzy233.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
-
-<span class='anchor' id='-xl'></span>
+E-mail: inonoway@163.com / wangzyprince@hust.edu.cn
 
 # 🎓 Education 
 - 2022.09 - 2025.6(expected), <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a>  **Huazhong University of Science and Technology** WuHan, China 
@@ -136,5 +134,9 @@ My research interests mainly focus on:
 - 2023,2022 First-Class Academic Scholarship ,`Huazhong University of Science and Technology
 - 2024.7 The China Graduate Electronics Design Contest(Central China Division) The second prize
 - 2020 Honorable Mention in Mathematical Contest In Modeling
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwangzy233.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
+
+<span class='anchor' id='-xl'></span>
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=sXU4RSbDGgXmZ25Yz-mk1A1ckDJt-Kwhe42Ccbi-3G8&cl=ffffff&w=a"></script>
