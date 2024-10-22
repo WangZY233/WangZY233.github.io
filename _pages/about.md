@@ -58,7 +58,7 @@ E-mail: inonoway@163.com / wangzyprince@hust.edu.cn
 <div class='paper-box-text' markdown="1">
  
 - (Accepted!) `Ziyuan Wang`, Yefan Lin, Le Yuzhao, Jiahang Zhang and Xiaojun Hei, "Deep Reinforcement Learning for Sim-to-Real Transfer in a Humanoid Robot Barista", The 2024 IEEE International Conference on Robotics and Biomimetics(ROBIO2024)
-
+[[HTML]](https://starletts.github.io/Ginger_Baristas.github.io/#)
 </div>
 </div>
 
