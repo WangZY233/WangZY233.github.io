@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Ziyuan Wang, currently a 3rd-year Master student(2022.9-2025.6) of <a href="https://www.hust.edu.cn/">School of the Electronic Information and Communications</a>, at <a href="https://www.hust.edu.cn/">Huazhong University of Science and Technology</a>, advised by <a href="https://scholar.google.com/citations?hl=zh-CN&user=x9vhdoIAAAAJ">Prof. Xiaojun Hei</a>. I have got my B.E degree from China Agricultural University in 2022. I am also the co-founder of Dian
+Hi! I am Ziyuan Wang, currently a 3rd-year Master student(2022.9-2025.6) of <a href="https://www.hust.edu.cn/">School of the Electronic Information and Communications</a>, at <a href="https://www.hust.edu.cn/">Huazhong University of Science and Technology</a>, advised by <a href="https://scholar.google.com/citations?hl=zh-CN&user=x9vhdoIAAAAJ">Prof. Xiaojun Hei</a>. I have got my B.E degree from China Agricultural University in 2022.
 
 I am seeking for a Phd position for 25 fall. I have extensive experience in robotics-related research and engineering projects. Although my publication record may not be very competitive (due to the fact that the first two years of my master's level were mainly focused on engineering projects, and I led the projects with a total funding over 3.5 million RMB), I am currently working on my academic articles (2 essays will be submitted in JJanuary).
 
