@@ -36,6 +36,7 @@ E-mail: inonoway@163.com / wangzyprince@hust.edu.cn
 
 - *2018.09 - 2022.06*, <a href="https://www.cau.edu.cn/"><img class="svg" src="/images/CAU_logo.svg" width="20pt"></a> **China Agricultural University** Beijing, China
   - B.E. in College of Information and Electrical Engineering
+  - Major in Electronic Information Engineering of Honors Program
 
 # 💻 Internships
 
@@ -84,7 +85,7 @@ E-mail: inonoway@163.com / wangzyprince@hust.edu.cn
 **An Open-sourced Reinforcement Learning Platform for Robotic Arm**
 - Based on Pybullet, using 6-DOF collaborative robotic arm + 2-DOF parallel gripper combined with reinforcement learning to complete multi-tasks, including static object grasping, dynamic object grasping, stacking, and inserting.
 - All the tasks were deployed to the physical robotic arm and the success rate was over 95%.
-- 70+⭐ in Github, Link: [https://github.com/WangZY233/FR5_Reinforcement-learning.git](https://github.com/WangZY233/FR5_Reinforcement-learning.git)
+- 80+⭐ in Github, Link: [https://github.com/WangZY233/FR5_Reinforcement-learning.git](https://github.com/WangZY233/FR5_Reinforcement-learning.git)
 
 [[Full Video]](https://www.bilibili.com/video/BV1DD421V7eP/?share_source=copy_web&vd_source=c17cbd34d977b7117b060596fe15e749)[[Code]](https://github.com/WangZY233/FR5_Reinforcement-learning.git)
 
