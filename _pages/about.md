@@ -137,6 +137,5 @@ E-mail: inonoway@163.com / wangzyprince@hust.edu.cn
 - 2024.7 The China Graduate Electronics Design Contest(Central China Division) The second prize
 - 2020 Honorable Mention in Mathematical Contest In Modeling
 
-<span class='anchor' id='-xl'></span>
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=100&t=tt&d=sXU4RSbDGgXmZ25Yz-mk1A1ckDJt-Kwhe42Ccbi-3G8'></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=sXU4RSbDGgXmZ25Yz-mk1A1ckDJt-Kwhe42Ccbi-3G8"></script>
