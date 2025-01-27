@@ -139,4 +139,4 @@ E-mail: inonoway@163.com / wangzyprince@hust.edu.cn
 
 <span class='anchor' id='-xl'></span>
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=sXU4RSbDGgXmZ25Yz-mk1A1ckDJt-Kwhe42Ccbi-3G8&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=100&t=tt&d=sXU4RSbDGgXmZ25Yz-mk1A1ckDJt-Kwhe42Ccbi-3G8'></script>
