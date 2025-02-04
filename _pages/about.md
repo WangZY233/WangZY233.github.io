@@ -138,6 +138,6 @@ E-mail: inonoway@163.com / wangzyprince@hust.edu.cn
 - 2020 Honorable Mention in Mathematical Contest In Modeling
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=sXU4RSbDGgXmZ25Yz-mk1A1ckDJt-Kwhe42Ccbi-3G8"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=t&d=sXU4RSbDGgXmZ25Yz-mk1A1ckDJt-Kwhe42Ccbi-3G8'></script>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwangzy233.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=bower.svg&icon_color=%23EB0101&title=Visitors&edge_flat=true"/></a>
