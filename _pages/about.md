@@ -118,11 +118,14 @@ E-mail: inonoway@163.com / wangzyprince@hust.edu.cn
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/robio.jpg' alt="sym" width="350pt"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/ChemAI.jpg' alt="sym" width="350pt"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Yefan Lin*, `Ziyuan Wang*`, Lujia Zhang, Chengwei Zhang and Xiaojun Hei, ChemAI: Empowering Robots to Automate Chemical Experiments with Large Language Models, International Conference on Computing and Artificial Intelligence (ICCAI2025)
 [[Video]](https://www.bilibili.com/video/BV1jDWPeZE7w/?share_source=copy_web&vd_source=c17cbd34d977b7117b060596fe15e749)
+
+</div>
+</div>
 
 -	`Z. Wang`, Y. Chen and X. Hei, "Design a Cloud-enabled Humanoid Robot Application System to Assess the ABA Learning for Autistic Children," 2022 International Conference on Intelligent Education and Intelligent Research (IEIR), Wuhan, China, 2022, pp. 114-121, doi: 10.1109/IEIR56323.2022.10050050.  
 [[Paper]](https://ieeexplore.ieee.org/document/10050050) [[Video]](https://www.bilibili.com/video/BV1pW421d7o5/?share_source=copy_web&vd_source=c17cbd34d977b7117b060596fe15e749)
