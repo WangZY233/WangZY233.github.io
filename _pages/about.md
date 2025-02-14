@@ -20,7 +20,7 @@ redirect_from:
 Hi! I am Ziyuan Wang, currently a 3rd-year Master student(2022.9-2025.6) of <a href="https://www.hust.edu.cn/">School of the Electronic Information and Communications</a>, at <a href="https://www.hust.edu.cn/">Huazhong University of Science and Technology</a>, advised by <a href="https://scholar.google.com/citations?hl=zh-CN&user=x9vhdoIAAAAJ">Prof. Xiaojun Hei</a>. I have got my B.E degree from China Agricultural University in 2022.
 I am also member D789 of <a href="http://www.dian.org.cn/">DianGroup</a>, where i founded <a href="https://dianrobot.github.io/">DianGroup Robotics Team </a>.
 
-I am seeking for a Phd position for 25 fall. I have extensive experience in robotics-related research and engineering projects. Although my publication record may not be very competitive (due to the fact that the first two years of my master's level were mainly focused on engineering projects, and I led the projects with a total funding over 3.5 million RMB), I am currently working on my academic articles (2 essays will be submitted in January).
+I am seeking for a Phd position for 25 fall. I have extensive experience in robotics-related research and engineering projects. Although my publication record may not be very competitive (due to the fact that the first two years of my master's level were mainly focused on engineering projects, and I led the projects with a total funding over 3.5 million RMB), I am currently working on my academic articles.
 
 
 My research interests mainly focus on:
@@ -99,7 +99,7 @@ E-mail: inonoway@163.com / wangzyprince@hust.edu.cn
 
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 Publications
+# 📝 Publications(*equal contribution)
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/Architecture of Self-Perceptive Frameworkv2.jpg' alt="sym" width="350pt"></div></div>
 <div class='paper-box-text' markdown="1"> 
@@ -113,10 +113,16 @@ E-mail: inonoway@163.com / wangzyprince@hust.edu.cn
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/robio.jpg' alt="sym" width="350pt"></div></div>
 <div class='paper-box-text' markdown="1">
  
-- (Accepted!) `Ziyuan Wang`, Yefan Lin, Le Yuzhao, Jiahang Zhang and Xiaojun Hei, "Deep Reinforcement Learning for Sim-to-Real Transfer in a Humanoid Robot Barista", The 2024 IEEE International Conference on Robotics and Biomimetics(ROBIO2024)
+- `Ziyuan Wang`, Yefan Lin, Le Yuzhao, Jiahang Zhang and Xiaojun Hei, "Deep Reinforcement Learning for Sim-to-Real Transfer in a Humanoid Robot Barista", The 2024 IEEE International Conference on Robotics and Biomimetics (ROBIO2024)
 [[HTML]](https://starletts.github.io/Ginger_Baristas.github.io/#)
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/robio.jpg' alt="sym" width="350pt"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- Yefan Lin*, `Ziyuan Wang*`, Lujia Zhang, Chengwei Zhang and Xiaojun Hei, ChemAI: Empowering Robots to Automate Chemical Experiments with Large Language Models, International Conference on Computing and Artificial Intelligence (ICCAI2025)
+[[Video]](https://www.bilibili.com/video/BV1jDWPeZE7w/?share_source=copy_web&vd_source=c17cbd34d977b7117b060596fe15e749)
 
 -	`Z. Wang`, Y. Chen and X. Hei, "Design a Cloud-enabled Humanoid Robot Application System to Assess the ABA Learning for Autistic Children," 2022 International Conference on Intelligent Education and Intelligent Research (IEIR), Wuhan, China, 2022, pp. 114-121, doi: 10.1109/IEIR56323.2022.10050050.  
 [[Paper]](https://ieeexplore.ieee.org/document/10050050) [[Video]](https://www.bilibili.com/video/BV1pW421d7o5/?share_source=copy_web&vd_source=c17cbd34d977b7117b060596fe15e749)
