@@ -47,6 +47,19 @@ E-mail: inonoway@163.com / wangzyprince@hust.edu.cn
 
 # 📐 Projects
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/chemistry.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
+
+**An Autonomous Dual-arm Robotic Chemical Experimental Platform**
+- Fully Autonomous dual-arm robotic chemical experimental platform without humans
+- Task scheduling by LLM
+- Modular design of more than 10 chemical experimental operations and completed real experimental processes (sensitive material preparation, crude salt purification, etc.)
+- On-site assessment by more than 10 chemists
+
+[[Full Video]](https://www.bilibili.com/video/BV12x4y1t7Sc/#reply230506699392)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/ginger_coffee.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
@@ -59,20 +72,6 @@ E-mail: inonoway@163.com / wangzyprince@hust.edu.cn
 
 [[Full Video]](https://www.bilibili.com/video/BV1AT421Y7zC/?spm_id_from=333.788&vd_source=489551d6eb0d2b01434cfa08d681ad35)[[Code]](https://github.com/WangZY233/ginger_coffee)
 
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/chemistry.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> 
-
-**An Autonomous Dual-arm Robotic Chemical Experimental Platform**
-- Fully Autonomous dual-arm robotic chemical experimental platform without humans
-- Task scheduling by LLM
-- Modular design of more than 10 chemical experimental operations and completed real experimental processes (sensitive material preparation, crude salt purification, etc.)
-- On-site assessment by more than 10 chemists
-
-[[Full Video]](https://www.bilibili.com/video/BV12x4y1t7Sc/#reply230506699392)
 
 </div>
 </div>
