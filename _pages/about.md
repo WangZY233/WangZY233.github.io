@@ -126,10 +126,10 @@ E-mail: inonoway@163.com / wangzyprince@hust.edu.cn
 </div>
 </div>
 
--	`Z. Wang`, Y. Chen and X. Hei, "Design a Cloud-enabled Humanoid Robot Application System to Assess the ABA Learning for Autistic Children," 2022 International Conference on Intelligent Education and Intelligent Research (IEIR), Wuhan, China, 2022, pp. 114-121, doi: 10.1109/IEIR56323.2022.10050050.  
+-	`Ziyuan. Wang`, Yiwei. Chen and Xiaojun. Hei, "Design a Cloud-enabled Humanoid Robot Application System to Assess the ABA Learning for Autistic Children," 2022 International Conference on Intelligent Education and Intelligent Research (IEIR), Wuhan, China, 2022, pp. 114-121, doi: 10.1109/IEIR56323.2022.10050050.  
 [[Paper]](https://ieeexplore.ieee.org/document/10050050) [[Video]](https://www.bilibili.com/video/BV1pW421d7o5/?share_source=copy_web&vd_source=c17cbd34d977b7117b060596fe15e749)
  
-- `Z. Wang`, and F. Guo. "Research on the theory and application of deep interactive learning." Journal of Physics: Conference Series. Vol. 1982. No. 1. IOP Publishing, 2021.  
+- `Ziyuan. Wang`, and Fan. Guo. "Research on the theory and application of deep interactive learning." Journal of Physics: Conference Series. Vol. 1982. No. 1. IOP Publishing, 2021.  
 [[Paper]](https://iopscience.iop.org/article/10.1088/1742-6596/1982/1/012085)
 
 - 张成伟,张嘉航,`王子渊`,韩长江,汪金剑,戴澍,朱振鹏,吴越,钟国辉,高雅玙. 一种双协作机械臂自动化化学材料制备平台.  2024
