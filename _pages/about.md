@@ -31,7 +31,7 @@ My research interests mainly focus on:
 E-mail: inonoway@163.com / wangzyprince@hust.edu.cn
 
 # 🎓 Education 
-- 2022.09 - 2025.6(expected), <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a>  **Huazhong University of Science and Technology** WuHan, China 
+- 2022.09 - 2025.6(expected), <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a>  **Huazhong University of Science and Technology** Wuhan, China 
   - M.S.(currently studying) in Electronic Information and Engingeering (Postgraduate Recommendation)
 
 - *2018.09 - 2022.06*, <a href="https://www.cau.edu.cn/"><img class="svg" src="/images/CAU_logo.svg" width="20pt"></a> **China Agricultural University** Beijing, China
@@ -103,7 +103,7 @@ E-mail: inonoway@163.com / wangzyprince@hust.edu.cn
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/Architecture of Self-Perceptive Frameworkv2.jpg' alt="sym" width="350pt"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
-- (Under Review) `Ziyuan Wang`, Yefan Lin, Jiahang Zhang, Changjiang Han and Xiaojun Hei, "Self-Perceptive Framework: A Manipulation Framework with Visual Compensation for Zero Position Error", IEEE International Conference on Robotics & Automation (ICRA2025)  
+- `Ziyuan Wang`, Yefan Lin, Jiahang Zhang, Changjiang Han and Xiaojun Hei, "Self-Perceptive Framework: A Manipulation Framework with Visual Compensation for Zero Position Error",Under Review by Autonomous Robot  
  <!-- [[Paper]](https://www.bilibili.com/video/BV1AT421Y7zC/?spm_id_from=333.788&vd_source=489551d6eb0d2b01434cfa08d681ad35) -->
 
 </div>
@@ -144,6 +144,8 @@ E-mail: inonoway@163.com / wangzyprince@hust.edu.cn
 - 2023,2022 First-Class Academic Scholarship ,`Huazhong University of Science and Technology
 - 2024.7 The China Graduate Electronics Design Contest(Central China Division) The second prize
 - 2020 Honorable Mention in Mathematical Contest In Modeling
+
+<!-- # 🏅 Awards and Honors -->
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=t&d=sXU4RSbDGgXmZ25Yz-mk1A1ckDJt-Kwhe42Ccbi-3G8'></script>
