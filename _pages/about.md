@@ -53,8 +53,7 @@ E-mail: inonoway@163.com / wangzyprince@hust.edu.cn
 **ChemAI 2.0: Chemistry Robot Imitation Learning from Human Demonstration**
 - One-shot imitation learning
 - Support for various chemistry experiments
-
-
+- In processing...
 
 </div>
 </div>
