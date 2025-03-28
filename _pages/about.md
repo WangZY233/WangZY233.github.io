@@ -20,8 +20,6 @@ redirect_from:
 Hi! I am Ziyuan Wang, currently a 3rd-year Master student(2022.9-2025.6) of <a href="https://www.hust.edu.cn/">School of the Electronic Information and Communications</a>, at <a href="https://www.hust.edu.cn/">Huazhong University of Science and Technology</a>, advised by <a href="https://scholar.google.com/citations?hl=zh-CN&user=x9vhdoIAAAAJ">Prof. Xiaojun Hei</a>. I have got my B.E degree from China Agricultural University in 2022.
 I am also member D789 of <a href="http://www.dian.org.cn/">DianGroup</a>, where i founded <a href="https://dianrobot.github.io/">DianGroup Robotics Team </a>.
 
-I am seeking for a Phd position for 25 fall. I have extensive experience in robotics-related research and engineering projects. Although my publication record may not be very competitive (due to the fact that the first two years of my master's level were mainly focused on engineering projects, and I led the projects with a total funding over 3.5 million RMB), I am currently working on my academic articles.
-
 
 My research interests mainly focus on:
 - Robotics Manipulation 
@@ -51,7 +49,7 @@ E-mail: inonoway@163.com / wangzyprince@hust.edu.cn
 <div class='paper-box-text' markdown="1"> 
 
 **ChemAI 2.0: Chemistry Robot Imitation Learning from Human Demonstration**
-- One-shot imitation learning
+- One-shot imitation learning from human demonstration
 - Support for various chemistry experiments
 - In processing...
 
@@ -95,7 +93,7 @@ E-mail: inonoway@163.com / wangzyprince@hust.edu.cn
 **An Open-sourced Reinforcement Learning Platform for Robotic Arm**
 - Based on Pybullet, using 6-DOF collaborative robotic arm + 2-DOF parallel gripper combined with reinforcement learning to complete multi-tasks, including static object grasping, dynamic object grasping, stacking, and inserting.
 - All the tasks were deployed to the physical robotic arm and the success rate was over 95%.
-- 80+⭐ in Github, Link: [https://github.com/WangZY233/FR5_Reinforcement-learning.git](https://github.com/WangZY233/FR5_Reinforcement-learning.git)
+- 100+⭐ in Github, Link: [https://github.com/WangZY233/FR5_Reinforcement-learning.git](https://github.com/WangZY233/FR5_Reinforcement-learning.git)
 
 [[Full Video]](https://www.bilibili.com/video/BV1DD421V7eP/?share_source=copy_web&vd_source=c17cbd34d977b7117b060596fe15e749)[[Code]](https://github.com/WangZY233/FR5_Reinforcement-learning.git)
 
@@ -123,15 +121,17 @@ E-mail: inonoway@163.com / wangzyprince@hust.edu.cn
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/robio.jpg' alt="sym" width="350pt"></div></div>
 <div class='paper-box-text' markdown="1">
  
-- `Ziyuan Wang`, Yefan Lin, Le Yuzhao, Jiahang Zhang and Xiaojun Hei, "Deep Reinforcement Learning for Sim-to-Real Transfer in a Humanoid Robot Barista", The 2024 IEEE International Conference on Robotics and Biomimetics (ROBIO2024)
+- `Ziyuan Wang`, Yefan Lin, Le Yuzhao, Jiahang Zhang and Xiaojun Hei, "Deep Reinforcement Learning for Sim-to-Real Transfer in a Humanoid Robot Barista", The 2024 IEEE International Conference on Robotics and Biomimetics (ROBIO2024).
 [[HTML]](https://starletts.github.io/Ginger_Baristas.github.io/#)
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/10907454)
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/ChemAI.jpg' alt="sym" width="350pt"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Yefan Lin*, `Ziyuan Wang*`, Lujia Zhang, Chengwei Zhang and Xiaojun Hei, ChemAI: Empowering Robots to Automate Chemical Experiments with Large Language Models, International Conference on Computing and Artificial Intelligence (ICCAI2025)
+- Yefan Lin*, `Ziyuan Wang*`, Lujia Zhang, Chengwei Zhang and Xiaojun Hei, "ChemAI: Empowering Robots to Automate Chemical Experiments with Large Language Models", International Conference on Computing and Artificial Intelligence. (ICCAI2025)
 [[Video]](https://www.bilibili.com/video/BV1jDWPeZE7w/?share_source=copy_web&vd_source=c17cbd34d977b7117b060596fe15e749)
 
 </div>
