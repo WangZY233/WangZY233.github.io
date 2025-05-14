@@ -3,9 +3,6 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: False
-redirect_from: 
-  - /project/
-  - /project.html
 ---
 <span class='anchor' id='-project'></span>
 
