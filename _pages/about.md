@@ -28,7 +28,7 @@ My research interests mainly focus on:
 
 E-mail: inonoway@163.com / wangzyprince@hust.edu.cn
 
-<span class='anchor' id='edu'></span>
+<span class='anchor' id='-edu'></span>
 
 # 🎓 Education 
 - 2022.09 - 2025.6(expected), <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a>  **Huazhong University of Science and Technology** Wuhan, China 
