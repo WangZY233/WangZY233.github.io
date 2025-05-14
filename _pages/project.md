@@ -1,3 +1,12 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /project/
+  - /project.html
+---
 <span class='anchor' id='-project'></span>
 
 # 📐 Projects
