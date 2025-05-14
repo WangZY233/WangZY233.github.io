@@ -2,7 +2,7 @@
 permalink: /
 title: ""
 excerpt: ""
-author_profile: true
+author_profile: False
 redirect_from: 
   - /project/
   - /project.html
