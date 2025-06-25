@@ -22,7 +22,7 @@ Hi! I am Ziyuan Wang, a incoming 25 fall PhD student of <a href="https://www.hit
 I have just obtained Master degree from EEE at <a href="https://www.hust.edu.cn/">HUST</a>, advised by <a href="https://scholar.google.com/citations?hl=zh-CN&user=x9vhdoIAAAAJ">Prof. Xiaojun Hei</a>. I have got my B.E degree from China Agricultural University in 2022, advised by Prof. <a href="https://faculty.cau.edu.cn/sh/list.html">Hong Sun</a> and Prof. <a href="https://faculty.cau.edu.cn/cq100/list.html">Qiang Chen</a>.
 I am also member D789 of <a href="http://www.dian.org.cn/">DianGroup</a>, where i founded <a href="https://dianrobot.github.io/">DianGroup Robotics Team </a>.
 
-I am eager to communicate and cooperate with people from all walks of life, and I hope you will contact me if you are interested! I want to make robots with real productivity. My research interests mainly focus on:
+**I am eager to communicate and cooperate with people from all walks of life, and I hope you will contact me if you are interested!** I want to make robots with real productivity. My research interests mainly focus on:
 - Embodied AI (Especially in Robotics Manipulation)
 - RL / IL / VLA
 
