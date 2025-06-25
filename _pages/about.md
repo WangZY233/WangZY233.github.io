@@ -17,16 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Ziyuan Wang, currently a 3rd-year Master student(2022.9-2025.6) of <a href="https://www.hust.edu.cn/">School of the Electronic Information and Communications</a>, at <a href="https://www.hust.edu.cn/">Huazhong University of Science and Technology</a>, advised by <a href="https://scholar.google.com/citations?hl=zh-CN&user=x9vhdoIAAAAJ">Prof. Xiaojun Hei</a>. I have got my B.E degree from China Agricultural University in 2022.
+Hi! I am Ziyuan Wang, a incoming 25 fall PhD student of <a href="https://www.hitsz.edu.cn/index.html">HIT(sz)</a>(Joint program with <a href="https://www.gbu.edu.cn/">Great Bay University</a>, advised by Prof.<a href="https://jeffery-zhou.github.io/">Peng Zhou</a>). I will study at <a href="https://email-lab.github.io/">EMAIL_Lab</a> in the next 4 years.
+
+I have just obtained Master degree from EEE at <a href="https://www.hust.edu.cn/">HUST</a>, advised by <a href="https://scholar.google.com/citations?hl=zh-CN&user=x9vhdoIAAAAJ">Prof. Xiaojun Hei</a>. I have got my B.E degree from China Agricultural University in 2022, advised by Prof. <a href="https://faculty.cau.edu.cn/sh/list.html">Hong Sun</a> and Prof. <a href="https://faculty.cau.edu.cn/cq100/list.html">Qiang Chen</a>.
 I am also member D789 of <a href="http://www.dian.org.cn/">DianGroup</a>, where i founded <a href="https://dianrobot.github.io/">DianGroup Robotics Team </a>.
 
+I am eager to communicate and cooperate with people from all walks of life, and I hope you will contact me if you are interested! I want to make robots with real productivity. My research interests mainly focus on:
+- Embodied AI (Especially in Robotics Manipulation)
+- RL / IL / VLA
 
-My research interests mainly focus on:
-- Robotics Manipulation 
-- RL / IL / VLM
-- Humanoid Robot / Collaborative Robots
+E-mail: inonoway@163.com
 
-E-mail: inonoway@163.com / wangzyprince@hust.edu.cn
+Phone & Wechat: 13536655301
 
 <span class='anchor' id='-edu'></span>
 
@@ -49,7 +51,7 @@ E-mail: inonoway@163.com / wangzyprince@hust.edu.cn
 
 # 📐 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/ChemAI2.0.gif' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><img src='/images/ChemAI2.0.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 **ChemAI 2.0: Chemistry Robot Imitation Learning from Human Demonstration**
@@ -58,7 +60,7 @@ E-mail: inonoway@163.com / wangzyprince@hust.edu.cn
 - In processing...
 
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/chemistry.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
