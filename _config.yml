@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "王子渊"
-description              : "Huazhong University of Science and Technology"
+description              : 
 repository               : "WangZY233/WangZY233.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "王子渊 Ziyuan Wang"
+  name             : "王子渊 Ziyuan Wang(Prince Wang)"
   avatar           : "images/wzy.jpg"
-  bio              : "华中科技大学"
-  location         : "Hubei Wuhan"
+  bio              : 
+  location         : "Guangdong, China"
   employer         : 
   pubmed           : 
   googlescholar    : 
