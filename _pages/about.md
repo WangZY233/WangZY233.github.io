@@ -16,29 +16,30 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
 
 <span class='anchor' id='about-me'></span>
-https://wangzy233.github.io/
-Hi! I I am planning to enroll as a PhD student at <a href="https://www.hitsz.edu.cn/index.html">HIT(sz)</a>(Joint program with <a href="https://www.gbu.edu.cn/">Great Bay University</a>, advised by Prof.<a href="https://jeffery-zhou.github.io/">Peng Zhou</a>). I will study at <a href="https://email-lab.github.io/">EMAIL_Lab</a> in the next 4 years.
+Hi! Welcome to my personal website. 
 
-I have just obtained my Master degree from EEE at <a href="https://www.hust.edu.cn/">HUST</a>, advised by <a href="https://scholar.google.com/citations?hl=zh-CN&user=x9vhdoIAAAAJ">Prof. Xiaojun Hei</a>. I have got my B.E degree from <a href="https://www.cau.edu.cn/">CAU</a> in 2022, advised by Prof. <a href="https://faculty.cau.edu.cn/sh/list.html">Hong Sun</a> and Prof. <a href="https://faculty.cau.edu.cn/cq100/list.html">Qiang Chen</a>.
+I am now pursuing a PhD degree at HIT(sz) (<a href="http://vbase.hitsz.edu.cn/">VBASE Lab</a>)</a> and Great Bay University (<a href="https://email-lab.github.io/">EMAIL_Lab</a>).
+
+Before that, I obtained my Master degree from EEE at <a href="https://www.hust.edu.cn/">HUST</a>, advised by <a href="https://scholar.google.com/citations?hl=zh-CN&user=x9vhdoIAAAAJ">Prof. Xiaojun Hei</a>. I have got my B.E degree from <a href="https://www.cau.edu.cn/">CAU</a> in 2022, advised by Prof. <a href="https://faculty.cau.edu.cn/sh/list.html">Hong Sun</a> and Prof. <a href="https://faculty.cau.edu.cn/cq100/list.html">Qiang Chen</a>.
 I am also member D789 of <a href="http://www.dian.org.cn/">DianGroup</a>, where i founded <a href="https://dianrobot.github.io/">DianGroup Robotics Team </a>.
 
 **I am eager to communicate and cooperate with people from all walks of life, and I hope you will contact me if you are interested!** I want to make robots with real productivity. My research interests mainly focus on:
 - Embodied AI (Especially in Robotics Manipulation)
+- Dynamic Dexterous Manipulation
 - RL / IL / VLA
 
-E-mail: inonoway@163.com
+E-mail: inonoway@163.com / wangzyprince@stu.hit.edu.cn
 
-Phone & Wechat: 13536655301
+Wechat: wzy13536655301
 
 <span class='anchor' id='-edu'></span>
 
 # 🎓 Education 
-- 2022.09 - 2025.6(expected), <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a>  **Huazhong University of Science and Technology** Wuhan, China 
-  - M.S.(currently studying) in Electronic Information and Engingeering (Postgraduate Recommendation)
+- *2025.09 - now*, PhD@<a href="https://www.hitsz.edu.cn/index.html"><img class="svg" src="/images/hitsz.svg" width="23pt"></a> **Harbin Institute of Technology(Shenzhen)** and <a href="https://www.gbu.edu.cn/"><img class="svg" src="/images/gbu.svg" width="23pt"></a> **Great Bay University** (Joint Program)
 
-- *2018.09 - 2022.06*, <a href="https://www.cau.edu.cn/"><img class="svg" src="/images/CAU_logo.svg" width="20pt"></a> **China Agricultural University** Beijing, China
-  - B.E. in College of Information and Electrical Engineering
-  - Major in Electronic Information Engineering of Honors Program
+- *2022.09 - 2025.6*, Master@<a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a>  **Huazhong University of Science and Technology** 
+
+- *2018.09 - 2022.06*, Bachlor@<a href="https://www.cau.edu.cn/"><img class="svg" src="/images/CAU_logo.svg" width="20pt"></a> **China Agricultural University** 
 
 # 💻 Internships
 
@@ -111,10 +112,12 @@ Phone & Wechat: 13536655301
 
 # 📝 Publications(*equal contribution)
 
+- Yuhan Huang, Zijian Ning, `Ziyuan Wang`, Jiaxuan Wang, Xiaojun Hei, Reinforcement Learning with Stage-Wise Model Fusion for Sequential Object Manipulation Tasks, IEEE International Conference on Robotics and Biomimetics (ROBIO2025), Chengdu, China, December 3-7, 2025
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/Architecture of Self-Perceptive Frameworkv2.jpg' alt="sym" width="350pt"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
-- `Ziyuan Wang`, Yefan Lin, Jiahang Zhang, Changjiang Han and Xiaojun Hei, "Self-Perceptive Framework: A Manipulation Framework with Visual Compensation for Zero Position Error",Under Review by Autonomous Robot  
+- `Ziyuan Wang`, Yefan Lin, Jiahang Zhang, Changjiang Han and Xiaojun Hei, "Self-Perceptive Framework: A Manipulation Framework with Visual Compensation for Zero Position Error", Under Reviewing  
  <!-- [[Paper]](https://www.bilibili.com/video/BV1AT421Y7zC/?spm_id_from=333.788&vd_source=489551d6eb0d2b01434cfa08d681ad35) -->
 
 </div>
@@ -154,6 +157,7 @@ Phone & Wechat: 13536655301
 <span class='anchor' id='-ah'></span>
 
 # 🏅 Awards and Honors
+- 珠海国际灵巧操作挑战赛(生活赛道), The First Prize
 - 2023,2022 First-Class Academic Scholarship ,`Huazhong University of Science and Technology
 - 2024.7 The China Graduate Electronics Design Contest(Central China Division) The second prize
 - 2020 Honorable Mention in Mathematical Contest In Modeling
