@@ -28,7 +28,7 @@ Wechat: wzy13536655301
 <span class='anchor' id='-edu'></span>
 
 # 🎓 Education 
-- *2025.09 - now*, PhD@<a href="https://www.hitsz.edu.cn/index.html"><img class="svg" src="/images/hitsz.svg" width="23pt"></a> **Harbin Institute of Technology(Shenzhen)** and <a href="https://www.gbu.edu.cn/"><img class="svg" src="/images/gbu.svg" width="23pt"></a> **Great Bay University** (Joint Program)
+- *2025.09 - now*, PhD@<a href="https://www.hitsz.edu.cn/index.html"><img class="png" src="/images/hitsz.png" width="23pt"></a> **Harbin Institute of Technology(Shenzhen)** and <a href="https://www.gbu.edu.cn/"><img class="png" src="/images/gbu.png" width="23pt"></a> **Great Bay University** (Joint Program)
 
 - *2022.09 - 2025.6*, Master@<a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a>  **Huazhong University of Science and Technology** 
 
