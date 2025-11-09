@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<!-- {% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
-
 <span class='anchor' id='about-me'></span>
 Hi! Welcome to my personal website. 
 
@@ -157,7 +150,8 @@ Wechat: wzy13536655301
 <span class='anchor' id='-ah'></span>
 
 # 🏅 Awards and Honors
-- 珠海国际灵巧操作挑战赛(生活赛道), The First Prize
+- The First Prize, 2025珠海国际灵巧操作挑战赛(生活赛道)
+- The Outstanding Award, 2024“法奥杯”协作机器人新场景应用大赛
 - 2023,2022 First-Class Academic Scholarship ,`Huazhong University of Science and Technology
 - 2024.7 The China Graduate Electronics Design Contest(Central China Division) The second prize
 - 2020 Honorable Mention in Mathematical Contest In Modeling
