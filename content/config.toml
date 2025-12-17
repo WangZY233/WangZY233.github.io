@@ -1,0 +1,58 @@
+[site]
+title = "王子渊 Ziyuan Wang"
+description = "PhD student at HIT (Shenzhen) and Great Bay University, focusing on Embodied AI and Robotics Manipulation."
+favicon = "/favicon.svg"
+last_updated = "December 17, 2025"
+
+[author]
+name = "王子渊 Ziyuan Wang"
+title = "PhD Student"
+institution = "HIT (Shenzhen) & Great Bay University"
+avatar = "/wzy.jpg"
+
+[social]
+# Contact information (leave blank or delete to hide)
+
+email = "wangzyprince@stu.hit.edu.cn"
+location = "Guangdong, China"
+location_url = "https://maps.google.com/?q=Shenzhen,China"
+location_details = [
+  "VBASE Lab, HIT (Shenzhen)",
+  "EMAIL_Lab, Great Bay University"
+]
+google_scholar = ""
+orcid = ""
+github = "https://github.com/WangZY233"
+linkedin = ""
+bilibili = "https://space.bilibili.com/391663865"
+
+[features]
+# Show a like button on the about page
+enable_likes = true
+
+# Display all subpages on a single page
+enable_one_page_mode = false
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "Projects"
+type = "page"
+target = "projects"
+href = "/projects"
+
+[[navigation]]
+title = "Awards"
+type = "page"
+target = "awards"
+href = "/awards"

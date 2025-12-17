@@ -1,3 +1,33 @@
 _site/
 push.sh
 .DS_Store
+
+# Next.js
+node_modules/
+.next/
+out/
+*.next/
+
+# Dependencies
+package-lock.json
+
+# Environment variables
+.env
+.env.local
+.env.production
+.env*.local
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

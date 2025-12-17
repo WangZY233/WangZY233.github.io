@@ -1,0 +1,31 @@
+type = "card"
+title = "Awards and Honors"
+description = "Selected awards and achievements"
+
+[[items]]
+title = "First Prize - 2025 Zhuhai International Dexterous Manipulation Challenge"
+subtitle = "Life Track"
+date = "2025"
+tags = ["Competition", "Robotics", "Manipulation"]
+
+[[items]]
+title = "Outstanding Award - 2024 FARO Cup Collaborative Robot Application Contest"
+date = "2024"
+tags = ["Competition", "Robotics"]
+
+[[items]]
+title = "First-Class Academic Scholarship"
+subtitle = "Huazhong University of Science and Technology"
+date = "2022, 2023"
+tags = ["Scholarship"]
+
+[[items]]
+title = "Second Prize - China Graduate Electronics Design Contest"
+subtitle = "Central China Division"
+date = "2024"
+tags = ["Competition", "Electronics"]
+
+[[items]]
+title = "Honorable Mention - Mathematical Contest In Modeling"
+date = "2020"
+tags = ["Competition", "Mathematics"]

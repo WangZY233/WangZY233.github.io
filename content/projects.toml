@@ -1,0 +1,38 @@
+type = "card"
+title = "Projects"
+description = "Selected robotics and AI projects"
+
+[[items]]
+title = "ChemAI 1.0: Autonomous Dual-arm Chemical Experimental Platform"
+subtitle = "Fully autonomous chemistry robot with LLM task scheduling"
+date = "2024"
+content = "Fully Autonomous dual-arm robotic chemical experimental platform without humans. Features modular design of 10+ chemical experimental operations and completed real experimental processes."
+tags = ["Dual-arm Robot", "LLM", "Chemistry", "Automation"]
+link = "https://www.bilibili.com/video/BV12x4y1t7Sc"
+image = "/projects/chemistry.gif"
+
+[[items]]
+title = "Humanoid Robot Barista (Ginger Coffee)"
+subtitle = "End-to-end coffee-making with reinforcement learning"
+date = "2024"
+content = "Complete process of making coffee using humanoid robot Ginger and reinforcement learning, including clicking coffee machine buttons, grasping cups and delivering coffee. Over 90% success rate in real robot deployment."
+tags = ["Humanoid Robot", "Reinforcement Learning", "Sim-to-Real"]
+link = "https://www.bilibili.com/video/BV1AT421Y7zC"
+image = "/projects/ginger_coffee.gif"
+
+[[items]]
+title = "FR5 Reinforcement Learning Platform"
+subtitle = "Open-source RL platform for robotic arm manipulation"
+date = "2023"
+content = "Based on Pybullet, using 6-DOF collaborative robotic arm + 2-DOF parallel gripper with RL to complete multi-tasks: static/dynamic object grasping, stacking, and inserting. 100+ stars on GitHub."
+tags = ["Open Source", "RL", "PyBullet", "Manipulation"]
+link = "https://github.com/WangZY233/FR5_Reinforcement-learning"
+image = "/projects/armgrasp.gif"
+
+[[items]]
+title = "Cloud-enabled Humanoid Robot for ABA Learning"
+subtitle = "Robot system for autism intervention assessment"
+date = "2022"
+content = "Design a cloud-enabled humanoid robot application system to assess ABA (Applied Behavior Analysis) learning for autistic children."
+tags = ["Humanoid Robot", "Healthcare", "Cloud Computing"]
+link = "https://ieeexplore.ieee.org/document/10050050"

@@ -1,0 +1,26 @@
+## 🎓 Education
+
+### PhD Student (2025.09 - present)
+**Harbin Institute of Technology (Shenzhen)** & **Great Bay University** (Joint Program)
+- Advisors: VBASE Lab & EMAIL_Lab
+- Focus: Embodied AI, Robotics Manipulation
+
+### Master of Engineering (2022.09 - 2025.06)
+**Huazhong University of Science and Technology**
+- School of Electrical and Electronic Engineering
+- Advisor: [Prof. Xiaojun Hei](https://scholar.google.com/citations?hl=zh-CN&user=x9vhdoIAAAAJ)
+
+### Bachelor of Engineering (2018.09 - 2022.06)
+**China Agricultural University**
+- Advisors: Prof. [Hong Sun](https://faculty.cau.edu.cn/sh/list.html) and Prof. [Qiang Chen](https://faculty.cau.edu.cn/cq100/list.html)
+
+## 💻 Internships
+
+### Dataa Robotics Co., LTD (2023.09 - 2024.02)
+Beijing, China
+- Developed humanoid robot applications for coffee-making tasks
+- Implemented reinforcement learning for robotic manipulation
+
+### Institute of Automation, Chinese Academy of Sciences (CASIA) (2021.10 - 2022.02)
+Beijing, China
+- Research on robotics and automation
