@@ -9,21 +9,53 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-Hi! Welcome to my personal website. 
+
+<div class="page-shell">
+
+<div class="hero-panel">
+  <span class="hero-panel__badge">Robotics · Embodied AI · Manipulation</span>
+  <h1 class="hero-panel__title">Hi, I'm Ziyuan Wang.</h1>
+  <p class="hero-panel__subtitle">PhD student at HIT (Shenzhen) and Great Bay University, exploring embodied AI and dexterous robotic manipulation that truly deliver productivity.</p>
+  <div class="hero-panel__cta">
+    <a class="btn-glow" href="mailto:wangzyprince@stu.hit.edu.cn">📧 一键联系</a>
+    <a class="btn-ghost" href="#-project">🚀 直达项目</a>
+  </div>
+  <div class="pill-set">
+    <span class="pill">HIT (Shenzhen)</span>
+    <span class="pill">Great Bay University</span>
+    <span class="pill">VBASE Lab · EMAIL_Lab</span>
+  </div>
+</div>
+
+<div class="info-grid">
+  <div class="info-card">
+    <div class="info-card__title">快速联系</div>
+    <p>Email: inonoway@163.com / wangzyprince@stu.hit.edu.cn</p>
+    <p>Wechat: wzy13536655301</p>
+  </div>
+  <div class="info-card">
+    <div class="info-card__title">研究兴趣</div>
+    <div class="pill-set">
+      <span class="pill">Embodied AI</span>
+      <span class="pill">Robotics Manipulation</span>
+      <span class="pill">RL / IL / VLA</span>
+      <span class="pill">Dynamic Dexterity</span>
+    </div>
+  </div>
+  <div class="info-card">
+    <div class="info-card__title">关于我</div>
+    <p>期待与各领域伙伴交流合作，一起打造真正有生产力的机器人。</p>
+  </div>
+</div>
+
+Hi! Welcome to my personal website.
 
 I am now pursuing a PhD degree at HIT(sz) (<a href="http://vbase.hitsz.edu.cn/">VBASE Lab</a>)</a> and Great Bay University (<a href="https://email-lab.github.io/">EMAIL_Lab</a>).
 
 Before that, I obtained my Master degree from EEE at <a href="https://www.hust.edu.cn/">HUST</a>, advised by <a href="https://scholar.google.com/citations?hl=zh-CN&user=x9vhdoIAAAAJ">Prof. Xiaojun Hei</a>. I have got my B.E degree from <a href="https://www.cau.edu.cn/">CAU</a> in 2022, advised by Prof. <a href="https://faculty.cau.edu.cn/sh/list.html">Hong Sun</a> and Prof. <a href="https://faculty.cau.edu.cn/cq100/list.html">Qiang Chen</a>.
 I am also member D789 of <a href="http://www.dian.org.cn/">DianGroup</a>, where i founded <a href="https://dianrobot.github.io/">DianGroup Robotics Team </a>.
 
-**I am eager to communicate and cooperate with people from all walks of life, and I hope you will contact me if you are interested!** I want to make robots with real productivity. My research interests mainly focus on:
-- Embodied AI (Especially in Robotics Manipulation)
-- Dynamic Dexterous Manipulation
-- RL / IL / VLA
-
-E-mail: inonoway@163.com / wangzyprince@stu.hit.edu.cn
-
-Wechat: wzy13536655301
+**I am eager to communicate and cooperate with people from all walks of life, and I hope you will contact me if you are interested!**
 
 <span class='anchor' id='-edu'></span>
 
@@ -162,3 +194,5 @@ Wechat: wzy13536655301
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=t&d=sXU4RSbDGgXmZ25Yz-mk1A1ckDJt-Kwhe42Ccbi-3G8'></script>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwangzy233.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=bower.svg&icon_color=%23EB0101&title=Visitors&edge_flat=true"/></a>
+
+</div>

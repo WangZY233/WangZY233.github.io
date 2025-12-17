@@ -6,15 +6,15 @@
    Typography
    ========================================================================== */
 
-   $doc-font-size              : 14;
+   $doc-font-size              : 15;
 
    /* paragraph indention */
    $paragraph-indent           : false; // true, false (default)
    $indent-var                 : 0.5em;
    
    /* system typefaces */
-   $serif                      :  "Trebuchet MS",sans-serif; // Georgia, Times, sans-serif;
-   $sans-serif                 : "Trebuchet MS", Helvetica,"Source Han Sans", "Microsoft YaHei", sans-serif;
+   $serif                      :  "Space Grotesk", "Trebuchet MS", sans-serif; // Georgia, Times, sans-serif;
+   $sans-serif                 : "Inter", "Space Grotesk", "Source Han Sans", "Microsoft YaHei", Helvetica, sans-serif;
    // $sans-serif                 : Georgia, serif, sans-serif;
    
    // $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
@@ -31,9 +31,9 @@
    $calisto                    : "Calisto MT", serif;
    $garamond                   : Garamond, serif;
    
-   $global-font-family         : $serif;
+   $global-font-family         : $sans-serif;
    $header-font-family         : $serif;
-   $caption-font-family        : $serif;
+   $caption-font-family        : $sans-serif;
    
    /* type scale */
    $type-size-1                : 2.441em;  // ~39.056px
@@ -56,19 +56,19 @@
    $light-gray                 : mix(#fff, $gray, 50%);
    $lighter-gray               : mix(#fff, $gray, 90%);
    
-   $body-color                 : #fff;
-   $background-color           : #fff;
-   $code-background-color      : #EDEDEB;
-   $code-text-color           : #E65555;
-   $code-background-color-dark : $light-gray;
-   $text-color                 : $dark-gray;
-   $border-color               : $lighter-gray;
-   
-   $primary-color              : #7a8288;
-   $success-color              : #62c462;
-   $warning-color              : #f89406;
-   $danger-color               : #ee5f5b;
-   $info-color                 : #224b8d;
+   $body-color                 : #0b1224;
+   $background-color           : #0f172a;
+   $code-background-color      : #11192f;
+   $code-text-color            : #f5a76f;
+   $code-background-color-dark : #0f1b34;
+   $text-color                 : #dfe6f5;
+   $border-color               : rgba(255, 255, 255, 0.08);
+
+   $primary-color              : #7bdcff;
+   $success-color              : #4ad1a7;
+   $warning-color              : #f0b45a;
+   $danger-color               : #f2738c;
+   $info-color                 : #a07bff;
    // $info-color                 : #52adc8;
    
    /* brands */
