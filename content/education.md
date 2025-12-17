@@ -22,10 +22,7 @@
 ### [Dataa Robotics Co., LTD](https://www.dataarobotics.com/) (2023.09 - 2024.02)
 
 Beijing, China
-- Developed humanoid robot applications for coffee-making tasks
-- Implemented reinforcement learning for robotic manipulation
 
 ### [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) (2021.10 - 2022.02)
 
 Beijing, China
-- Research on robotics and automation
