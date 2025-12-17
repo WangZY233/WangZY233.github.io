@@ -148,7 +148,24 @@ function parseAuthors(authorsStr: string, highlightName?: string): Array<{ name:
       if (highlightName) {
         const lowerName = name.toLowerCase();
         const lowerHighlight = highlightName.toLowerCase();
+        
+        // Try direct match
         isHighlighted = lowerName.includes(lowerHighlight);
+
+        // Try matching individual parts (handle "王子渊 Ziyuan Wang" matching "Wang, Ziyuan" or "Ziyuan Wang")
+        if (!isHighlighted) {
+          // Extract English names from highlightName
+          const englishParts = highlightName.match(/[a-zA-Z]+/g) || [];
+          if (englishParts.length >= 2) {
+            const firstName = englishParts[0]?.toLowerCase() || '';
+            const lastName = englishParts[englishParts.length - 1]?.toLowerCase() || '';
+            
+            // Check if name contains both first and last name
+            if (firstName && lastName) {
+              isHighlighted = lowerName.includes(firstName) && lowerName.includes(lastName);
+            }
+          }
+        }
 
         // Also check for reversed order (Last First) if not found
         if (!isHighlighted && lowerHighlight.includes(' ')) {
