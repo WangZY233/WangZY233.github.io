@@ -2,7 +2,7 @@
 
 ### PhD Student (2025.09 - present)
 **Harbin Institute of Technology (Shenzhen)** & **Great Bay University** (Joint Program)
-- Advisors: VBASE Lab & EMAIL_Lab
+- Lab: VBASE Lab & EMAIL_Lab
 - Focus: Embodied AI, Robotics Manipulation
 
 ### Master of Engineering (2022.09 - 2025.06)

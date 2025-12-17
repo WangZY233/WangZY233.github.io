@@ -1,14 +1,6 @@
 type = "about"
 title = "About"
 
-[profile]
-research_interests = [
-  "Embodied AI",
-  "Robotics Manipulation",
-  "Dynamic Dexterity",
-  "RL / IL / VLA"
-]
-
 [[sections]]
 id = "intro"
 type = "markdown"

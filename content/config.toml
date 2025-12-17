@@ -14,6 +14,8 @@ avatar = "/wzy.jpg"
 # Contact information (leave blank or delete to hide)
 
 email = "wangzyprince@stu.hit.edu.cn"
+email_secondary = "inonoway@163.com"
+wechat = "wzy13536655301"
 location = "Guangdong, China"
 location_url = "https://maps.google.com/?q=Shenzhen,China"
 location_details = [

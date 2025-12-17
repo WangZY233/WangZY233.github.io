@@ -7,14 +7,3 @@ Before that, I obtained my Master degree from EEE at [HUST](https://www.hust.edu
 I am also member D789 of [DianGroup](http://www.dian.org.cn/), where i founded [DianGroup Robotics Team](https://dianrobot.github.io/).
 
 **I am eager to communicate and cooperate with people from all walks of life, and I hope you will contact me if you are interested!** I want to make robots with real productivity.
-
-## 📚 Research Interests
-
-- **Embodied AI** (Especially in Robotics Manipulation)
-- **Dynamic Dexterous Manipulation**
-- **RL / IL / VLA**
-
-## 📬 Contact
-
-- **E-mail**: inonoway@163.com / wangzyprince@stu.hit.edu.cn
-- **Wechat**: wzy13536655301

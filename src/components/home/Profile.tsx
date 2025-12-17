@@ -7,9 +7,10 @@ import {
     EnvelopeIcon,
     AcademicCapIcon,
     HeartIcon,
-    MapPinIcon
+    MapPinIcon,
+    ChatBubbleLeftRightIcon
 } from '@heroicons/react/24/outline';
-import { MapPinIcon as MapPinSolidIcon, EnvelopeIcon as EnvelopeSolidIcon } from '@heroicons/react/24/solid';
+import { MapPinIcon as MapPinSolidIcon, EnvelopeIcon as EnvelopeSolidIcon, ChatBubbleLeftRightIcon as ChatBubbleLeftRightSolidIcon } from '@heroicons/react/24/solid';
 import { HeartIcon as HeartSolidIcon } from '@heroicons/react/24/solid';
 import { Github, Linkedin, Pin } from 'lucide-react';
 import { SiteConfig } from '@/lib/config';
@@ -41,7 +42,9 @@ export default function Profile({ author, social, features, researchInterests }:
     const [isAddressPinned, setIsAddressPinned] = useState(false);
     const [showEmail, setShowEmail] = useState(false);
     const [isEmailPinned, setIsEmailPinned] = useState(false);
-    const [lastClickedTooltip, setLastClickedTooltip] = useState<'email' | 'address' | null>(null);
+    const [showWechat, setShowWechat] = useState(false);
+    const [isWechatPinned, setIsWechatPinned] = useState(false);
+    const [lastClickedTooltip, setLastClickedTooltip] = useState<'email' | 'address' | 'wechat' | null>(null);
 
     // Check local storage for user's like status
     useEffect(() => {
@@ -73,6 +76,12 @@ export default function Profile({ author, social, features, researchInterests }:
             href: `mailto:${social.email}`,
             icon: EnvelopeIcon,
             isEmail: true,
+        }] : []),
+        ...(social.wechat ? [{
+            name: 'WeChat',
+            href: '#',
+            icon: ChatBubbleLeftRightIcon,
+            isWechat: true,
         }] : []),
         ...(social.location || social.location_details ? [{
             name: 'Location',
@@ -268,6 +277,9 @@ export default function Profile({ author, social, features, researchInterests }:
                                                     )}
                                                 </div>
                                                 <p className="break-words">{social.email?.replace('@', ' (at) ')}</p>
+                                                {social.email_secondary && typeof social.email_secondary === 'string' && (
+                                                    <p className="break-words text-neutral-300 mt-1">{social.email_secondary.replace('@', ' (at) ')}</p>
+                                                )}
                                                 <div className="mt-2">
                                                     <a
                                                         href={link.href}
@@ -278,6 +290,67 @@ export default function Profile({ author, social, features, researchInterests }:
                                                         <span className="hidden sm:inline">Send Email</span>
                                                     </a>
                                                 </div>
+                                            </div>
+                                            <div className="absolute top-full left-1/2 transform -translate-x-1/2 w-0 h-0 border-l-4 border-r-4 border-t-4 border-transparent border-t-neutral-800"></div>
+                                        </motion.div>
+                                    )}
+                                </AnimatePresence>
+                            </div>
+                        );
+                    }
+                    if (link.isWechat) {
+                        return (
+                            <div key={link.name} className="relative">
+                                <button
+                                    onMouseEnter={() => {
+                                        if (!isWechatPinned) setShowWechat(true);
+                                        setLastClickedTooltip('wechat');
+                                    }}
+                                    onMouseLeave={() => !isWechatPinned && setShowWechat(false)}
+                                    onClick={() => {
+                                        setIsWechatPinned(!isWechatPinned);
+                                        setShowWechat(!isWechatPinned);
+                                        setLastClickedTooltip('wechat');
+                                    }}
+                                    className={`p-2 sm:p-2 transition-colors duration-200 ${isWechatPinned
+                                        ? 'text-accent'
+                                        : 'text-neutral-600 dark:text-neutral-400 hover:text-accent'
+                                        }`}
+                                    aria-label={link.name}
+                                >
+                                    {isWechatPinned ? (
+                                        <ChatBubbleLeftRightSolidIcon className="h-5 w-5" />
+                                    ) : (
+                                        <ChatBubbleLeftRightIcon className="h-5 w-5" />
+                                    )}
+                                </button>
+
+                                {/* WeChat tooltip */}
+                                <AnimatePresence>
+                                    {(showWechat || isWechatPinned) && (
+                                        <motion.div
+                                            initial={{ opacity: 0, y: 10, scale: 0.8 }}
+                                            animate={{ opacity: 1, y: -10, scale: 1 }}
+                                            exit={{ opacity: 0, y: -20, scale: 0.8 }}
+                                            className={`absolute top-0 left-1/2 transform -translate-x-1/2 -translate-y-full bg-neutral-800 text-white px-4 py-3 rounded-lg text-sm font-medium shadow-lg max-w-[calc(100vw-2rem)] sm:max-w-none sm:whitespace-nowrap ${lastClickedTooltip === 'wechat' ? 'z-20' : 'z-10'
+                                                }`}
+                                            onMouseEnter={() => {
+                                                if (!isWechatPinned) setShowWechat(true);
+                                                setLastClickedTooltip('wechat');
+                                            }}
+                                            onMouseLeave={() => !isWechatPinned && setShowWechat(false)}
+                                        >
+                                            <div className="text-center">
+                                                <div className="flex items-center justify-center space-x-2 mb-1">
+                                                    <p className="font-semibold">WeChat</p>
+                                                    {!isWechatPinned && (
+                                                        <div className="flex items-center space-x-0.5 text-xs text-neutral-400 opacity-60">
+                                                            <Pin className="h-2.5 w-2.5" />
+                                                            <span className="hidden sm:inline">Click</span>
+                                                        </div>
+                                                    )}
+                                                </div>
+                                                <p className="break-words font-mono text-green-300">{typeof social.wechat === 'string' ? social.wechat : ''}</p>
                                             </div>
                                             <div className="absolute top-full left-1/2 transform -translate-x-1/2 w-0 h-0 border-l-4 border-r-4 border-t-4 border-transparent border-t-neutral-800"></div>
                                         </motion.div>
