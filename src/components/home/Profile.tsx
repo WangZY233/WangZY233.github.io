@@ -38,6 +38,7 @@ export default function Profile({ author, social, features, researchInterests }:
 
     const [hasLiked, setHasLiked] = useState(false);
     const [showThanks, setShowThanks] = useState(false);
+    const [likeCount, setLikeCount] = useState<number | null>(null);
     const [showAddress, setShowAddress] = useState(false);
     const [isAddressPinned, setIsAddressPinned] = useState(false);
     const [showEmail, setShowEmail] = useState(false);
@@ -46,7 +47,7 @@ export default function Profile({ author, social, features, researchInterests }:
     const [isWechatPinned, setIsWechatPinned] = useState(false);
     const [lastClickedTooltip, setLastClickedTooltip] = useState<'email' | 'address' | 'wechat' | null>(null);
 
-    // Check local storage for user's like status
+    // Check local storage for user's like status and fetch like count
     useEffect(() => {
         if (!features.enable_likes) return;
 
@@ -54,6 +55,17 @@ export default function Profile({ author, social, features, researchInterests }:
         if (userHasLiked === 'true') {
             setHasLiked(true);
         }
+
+        // Fetch current like count from CountAPI
+        fetch('https://api.countapi.xyz/get/wangzy233.github.io/likes')
+            .then(res => res.json())
+            .then(data => {
+                setLikeCount(data.value || 0);
+            })
+            .catch(err => {
+                console.error('Failed to fetch like count:', err);
+                setLikeCount(0);
+            });
     }, [features.enable_likes]);
 
     const handleLike = () => {
@@ -64,9 +76,25 @@ export default function Profile({ author, social, features, researchInterests }:
             localStorage.setItem('jiale-website-user-liked', 'true');
             setShowThanks(true);
             setTimeout(() => setShowThanks(false), 2000);
+            
+            // Increment like count on server
+            fetch('https://api.countapi.xyz/hit/wangzy233.github.io/likes')
+                .then(res => res.json())
+                .then(data => {
+                    setLikeCount(data.value);
+                })
+                .catch(err => console.error('Failed to increment like count:', err));
         } else {
             localStorage.removeItem('jiale-website-user-liked');
             setShowThanks(false);
+            
+            // Decrement like count on server
+            fetch('https://api.countapi.xyz/hit/wangzy233.github.io/likes?amount=-1')
+                .then(res => res.json())
+                .then(data => {
+                    setLikeCount(data.value);
+                })
+                .catch(err => console.error('Failed to decrement like count:', err));
         }
     };
 
@@ -388,7 +416,7 @@ export default function Profile({ author, social, features, researchInterests }:
 
             {/* Like Button */}
             {features.enable_likes && (
-                <div className="flex justify-center">
+                <div className="flex flex-col items-center space-y-2">
                     <div className="relative">
                         <motion.button
                             onClick={handleLike}
@@ -422,6 +450,17 @@ export default function Profile({ author, social, features, researchInterests }:
                             )}
                         </AnimatePresence>
                     </div>
+                    
+                    {/* Like Count */}
+                    {likeCount !== null && (
+                        <motion.div
+                            initial={{ opacity: 0, scale: 0.8 }}
+                            animate={{ opacity: 1, scale: 1 }}
+                            className="text-xs text-neutral-500 dark:text-neutral-600"
+                        >
+                            {likeCount} {likeCount === 1 ? 'person likes' : 'people like'} this
+                        </motion.div>
+                    )}
                 </div>
             )}
 
