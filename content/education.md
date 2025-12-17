@@ -2,10 +2,7 @@
 
 ### PhD Student (2025.09 - present)
 
-<div style="display: flex; align-items: center; gap: 12px; margin-bottom: 8px;">
-  <img src="/papers/hitsz.png" alt="HIT(SZ)" style="height: 40px; width: auto;" />
-  <img src="/papers/gbu.png" alt="GBU" style="height: 40px; width: auto;" />
-</div>
+![HIT(SZ)](/papers/hitsz.png) ![GBU](/papers/gbu.png)
 
 **Harbin Institute of Technology (Shenzhen)** & **Great Bay University** (Joint Program)
 - Lab: [VBASE Lab](http://vbase.hitsz.edu.cn/) & [EMAIL_Lab](https://email-lab.github.io/)
@@ -13,9 +10,7 @@
 
 ### Master of Engineering (2022.09 - 2025.06)
 
-<div style="display: flex; align-items: center; gap: 12px; margin-bottom: 8px;">
-  <img src="/papers/HUST_logo.svg" alt="HUST" style="height: 40px; width: auto;" />
-</div>
+![HUST](/papers/HUST_logo.svg)
 
 **Huazhong University of Science and Technology**
 - School of Electrical and Electronic Engineering
@@ -23,9 +18,7 @@
 
 ### Bachelor of Engineering (2018.09 - 2022.06)
 
-<div style="display: flex; align-items: center; gap: 12px; margin-bottom: 8px;">
-  <img src="/papers/CAU_logo.svg" alt="CAU" style="height: 40px; width: auto;" />
-</div>
+![CAU](/papers/CAU_logo.svg)
 
 **China Agricultural University**
 - Advisors: Prof. [Hong Sun](https://faculty.cau.edu.cn/sh/list.html) and Prof. [Qiang Chen](https://faculty.cau.edu.cn/cq100/list.html)
@@ -34,9 +27,7 @@
 
 ### [Dataa Robotics Co., LTD](https://www.dataarobotics.com/) (2023.09 - 2024.02)
 
-<div style="display: flex; align-items: center; gap: 12px; margin-bottom: 8px;">
-  <img src="/papers/cloudminds.svg" alt="Dataa Robotics" style="height: 40px; width: auto;" />
-</div>
+![Dataa Robotics](/papers/cloudminds.svg)
 
 Beijing, China
 - Developed humanoid robot applications for coffee-making tasks
@@ -44,9 +35,7 @@ Beijing, China
 
 ### [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) (2021.10 - 2022.02)
 
-<div style="display: flex; align-items: center; gap: 12px; margin-bottom: 8px;">
-  <img src="/papers/CASIA.svg" alt="CASIA" style="height: 40px; width: auto;" />
-</div>
+![CASIA](/papers/CASIA.svg)
 
 Beijing, China
 - Research on robotics and automation
