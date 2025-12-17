@@ -8,12 +8,6 @@ source = "about_intro.md"
 title = "About Me"
 
 [[sections]]
-id = "education"
-type = "markdown"
-source = "education.md"
-title = "Education & Experience"
-
-[[sections]]
 id = "featured_publications"
 type = "publications"
 title = "Selected Publications"
@@ -25,4 +19,3 @@ id = "news"
 type = "list"
 title = "News"
 source = "news.toml"
-

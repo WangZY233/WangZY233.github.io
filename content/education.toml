@@ -1,0 +1,9 @@
+type = "text"
+title = "Education & Experience"
+description = "My academic background and professional experiences"
+
+[[sections]]
+id = "education"
+type = "markdown"
+source = "education.md"
+title = "Education & Experience"
