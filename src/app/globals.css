@@ -239,3 +239,11 @@ body {
   /* Soften card borders in dark mode only */
   border-color: rgba(148, 163, 184, 0.24);
 }
+
+/* Inline image styles for logos */
+img.svg, img.png, img.jpg {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 8px;
+  margin-bottom: 0;
+}
