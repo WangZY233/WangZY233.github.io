@@ -424,6 +424,13 @@ export default function Profile({ author, social, features, researchInterests }:
                     </div>
                 </div>
             )}
+
+            {/* Clustrmaps Visitor Tracker */}
+            <div className="flex justify-center mt-6">
+                <a href='https://clustrmaps.com/site/1c1rh' title='Visit tracker'>
+                    <img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=70&t=n&d=sXU4RSbDGgXmZ25Yz-mk1A1ckDJt-Kwhe42Ccbi-3G8' alt='Visitor Map' />
+                </a>
+            </div>
         </motion.div>
     );
 }
