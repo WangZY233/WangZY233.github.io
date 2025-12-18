@@ -28,15 +28,37 @@ export default function CardPage({ config, embedded = false }: { config: CardPag
                         transition={{ duration: 0.4, delay: 0.1 * index }}
                         className={`bg-white dark:bg-neutral-900 ${embedded ? "p-4" : "p-6"} rounded-xl shadow-sm border border-neutral-200 dark:border-neutral-800 hover:shadow-lg transition-all duration-200 hover:scale-[1.01]`}
                     >
-                        {/* Image/GIF Display */}
-                        {item.image && (
-                            <div className="mb-4 rounded-lg overflow-hidden bg-neutral-100 dark:bg-neutral-800 flex justify-center">
-                                <img 
-                                    src={item.image} 
-                                    alt={item.title}
-                                    className="w-auto h-auto max-w-md max-h-64 object-contain"
-                                    loading="lazy"
-                                />
+                        {/* Image/GIF Display - Support both single image and multiple images */}
+                        {(item.image || item.images) && (
+                            <div className="mb-4">
+                                {item.images && item.images.length > 0 ? (
+                                    // Multiple images - display in grid
+                                    <div className="grid grid-cols-2 gap-3">
+                                        {item.images.map((img, imgIndex) => (
+                                            <div 
+                                                key={imgIndex}
+                                                className="rounded-lg overflow-hidden bg-neutral-100 dark:bg-neutral-800 flex justify-center"
+                                            >
+                                                <img 
+                                                    src={img} 
+                                                    alt={`${item.title} ${imgIndex + 1}`}
+                                                    className="w-auto h-auto max-w-full max-h-48 object-contain"
+                                                    loading="lazy"
+                                                />
+                                            </div>
+                                        ))}
+                                    </div>
+                                ) : item.image ? (
+                                    // Single image
+                                    <div className="rounded-lg overflow-hidden bg-neutral-100 dark:bg-neutral-800 flex justify-center">
+                                        <img 
+                                            src={item.image} 
+                                            alt={item.title}
+                                            className="w-auto h-auto max-w-md max-h-64 object-contain"
+                                            loading="lazy"
+                                        />
+                                    </div>
+                                ) : null}
                             </div>
                         )}
                         

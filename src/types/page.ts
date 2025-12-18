@@ -22,6 +22,7 @@ export interface CardItem {
     tags?: string[];
     link?: string;
     image?: string;
+    images?: string[];  // Support multiple images
 }
 
 export interface CardPageConfig extends BasePageConfig {
