@@ -38,4 +38,4 @@ Beijing, China
 
 ### Committee Member
 
-- **Executive Committee Member**, ARTS (Academic Robotics Technical Society)
+- **Member of Student Committee**, Autonomous Robotic Technology Seminar(ARTS)

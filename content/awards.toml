@@ -7,7 +7,7 @@ title = "First Prize - 2025珠海国际灵巧操作挑战赛（生活赛道）"
 subtitle = "奖金：50wRMB"
 date = "2025"
 tags = ["Competition", "Robotics", "Manipulation"]
-image = ""  # 可选：添加图片路径，例如 "/awards/zhuhai2025.jpg"
+image = "/pictures/zhuhai2025.jpg"  # 可选：添加图片路径，例如 "/awards/zhuhai2025.jpg"
 
 [[items]]
 title = "Outstanding Award - 2024 FARO Cup Collaborative Robot Application Contest"
