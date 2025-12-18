@@ -3,29 +3,35 @@ title = "Awards and Honors"
 description = "Selected awards and achievements"
 
 [[items]]
-title = "First Prize - 2025 Zhuhai International Dexterous Manipulation Challenge"
-subtitle = "Life Track"
+title = "First Prize - 2025珠海国际灵巧操作挑战赛（生活赛道）"
+subtitle = "奖金：50wRMB"
 date = "2025"
 tags = ["Competition", "Robotics", "Manipulation"]
+image = ""  # 可选：添加图片路径，例如 "/awards/zhuhai2025.jpg"
 
 [[items]]
 title = "Outstanding Award - 2024 FARO Cup Collaborative Robot Application Contest"
+subtitle = "奖金：5wRMB"
 date = "2024"
 tags = ["Competition", "Robotics"]
+image = ""  # 可选：添加图片路径，例如 "/awards/faro2024.jpg"
 
 [[items]]
 title = "First-Class Academic Scholarship"
 subtitle = "Huazhong University of Science and Technology"
 date = "2022, 2023"
 tags = ["Scholarship"]
+image = ""  # 可选：添加图片路径
 
 [[items]]
 title = "Second Prize - China Graduate Electronics Design Contest"
 subtitle = "Central China Division"
 date = "2024"
 tags = ["Competition", "Electronics"]
+image = ""  # 可选：添加图片路径
 
 [[items]]
 title = "Honorable Mention - Mathematical Contest In Modeling"
 date = "2020"
 tags = ["Competition", "Mathematics"]
+image = ""  # 可选：添加图片路径
