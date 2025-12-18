@@ -1,3 +1,4 @@
 type = "text"
-title = "Education & Experience"
+title = "Experience"
+description = "Education background, internships, and academic services"
 source = "education.md"

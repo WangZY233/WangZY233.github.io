@@ -42,7 +42,7 @@ target = "about"
 href = "/"
 
 [[navigation]]
-title = "Education"
+title = "Experience"
 type = "page"
 target = "education"
 href = "/education"

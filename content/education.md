@@ -26,3 +26,16 @@ Beijing, China
 ### [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) (2021.10 - 2022.02)
 
 Beijing, China
+
+## 🏛️ Academic Services
+
+### Reviewer
+
+- **IEEE Robotics and Automation Letters (RAL)**
+- **IEEE International Conference on Robotics and Automation (ICRA)**
+- **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**
+- **IEEE International Conference on Robotics and Biomimetics (ROBIO)**
+
+### Committee Member
+
+- **Executive Committee Member**, ARTS (Academic Robotics Technical Society)
