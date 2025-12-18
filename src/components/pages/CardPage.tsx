@@ -30,11 +30,11 @@ export default function CardPage({ config, embedded = false }: { config: CardPag
                     >
                         {/* Image/GIF Display */}
                         {item.image && (
-                            <div className="mb-4 rounded-lg overflow-hidden bg-neutral-100 dark:bg-neutral-800">
+                            <div className="mb-4 rounded-lg overflow-hidden bg-neutral-100 dark:bg-neutral-800 flex justify-center">
                                 <img 
                                     src={item.image} 
                                     alt={item.title}
-                                    className="w-full h-auto object-cover"
+                                    className="w-auto h-auto max-w-md max-h-64 object-contain"
                                     loading="lazy"
                                 />
                             </div>
