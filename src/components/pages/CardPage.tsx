@@ -4,6 +4,9 @@ import { motion } from 'framer-motion';
 import { CardPageConfig } from '@/types/page';
 
 export default function CardPage({ config, embedded = false }: { config: CardPageConfig; embedded?: boolean }) {
+    // Determine if this is an awards page (use smaller images) or projects page (use larger images)
+    const isAwardsPage = config.title.toLowerCase().includes('award');
+    
     return (
         <motion.div
             initial={{ opacity: 0, y: 20 }}
@@ -42,7 +45,11 @@ export default function CardPage({ config, embedded = false }: { config: CardPag
                                                 <img 
                                                     src={img} 
                                                     alt={`${item.title} ${imgIndex + 1}`}
-                                                    className="w-auto h-auto max-w-full max-h-48 object-contain"
+                                                    className={`w-auto h-auto object-contain ${
+                                                        isAwardsPage 
+                                                            ? 'max-w-full max-h-48' 
+                                                            : 'max-w-full max-h-80'
+                                                    }`}
                                                     loading="lazy"
                                                 />
                                             </div>
@@ -50,11 +57,17 @@ export default function CardPage({ config, embedded = false }: { config: CardPag
                                     </div>
                                 ) : item.image ? (
                                     // Single image
-                                    <div className="rounded-lg overflow-hidden bg-neutral-100 dark:bg-neutral-800 flex justify-center">
+                                    <div className={`rounded-lg overflow-hidden bg-neutral-100 dark:bg-neutral-800 ${
+                                        isAwardsPage ? 'flex justify-center' : ''
+                                    }`}>
                                         <img 
                                             src={item.image} 
                                             alt={item.title}
-                                            className="w-auto h-auto max-w-md max-h-64 object-contain"
+                                            className={`${
+                                                isAwardsPage 
+                                                    ? 'w-auto h-auto max-w-md max-h-64 object-contain' 
+                                                    : 'w-full h-auto object-cover'
+                                            }`}
                                             loading="lazy"
                                         />
                                     </div>
