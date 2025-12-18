@@ -14,7 +14,10 @@ title = "Outstanding Award - 2024 FARO Cup Collaborative Robot Application Conte
 subtitle = "奖金：5wRMB"
 date = "2024"
 tags = ["Competition", "Robotics"]
-image = ""  # 可选：添加图片路径，例如 "/awards/faro2024.jpg"
+images = [
+    "/pictures/FAIR.jpg",
+    "/pictures/FAIR-award.jpg"
+] 
 
 [[items]]
 title = "First-Class Academic Scholarship"
